@@ -38,11 +38,11 @@ The player competes against the computer, and the first to reach 3 points wins. 
 ## 🚀 How to Run
 1. Clone repo:
    ```bash
-   git clone https://github.com/GENESISASM/JS-CalorieCounter.git
+   git clone https://github.com/GENESISASM/JS_Rock_Paper_Scissors_Game.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd JS-DomManipulate
+   cd JS_Rock_Paper_Scissors_Game
    ```
 3. Open `index.html` in your favorite browser.
 
